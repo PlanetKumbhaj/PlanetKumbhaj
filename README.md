@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PlanetKumbhaj
 - 👀 I’m interested in Artificial intelligence technology.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on their project.
+- 🌱 I’m a full stack developer / Tutor.
 
 
 <!---
