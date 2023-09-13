@@ -1,7 +1,32 @@
-- 👋 Hi, I’m @PlanetKumbhaj
-- 👀 I’m interested in Artificial intelligence technology.
-- 🌱 I’m a full stack developer / Tutor.
+# Hello, I'm Kumbhaj Shukla
 
+👨‍💻 Full Stack Developer | 🌐 Open Source Enthusiast | 🤓 Problem Solver
+
+🌱 Exploring the vast tech ecosystem, I'm passionate about building innovative solutions.
+
+🎓 I'm also proud to serve as the Chairperson of the GeeksforGeeks Student Chapter.
+
+----
+🚀 Here's a glimpse of my tech stack:
+- MongoDB, Express.js, Node.js, React.js for full-stack development
+- Python and JavaScript for scripting and application development
+- PostgreSQL for relational database management
+- Machine Learning model training for data-driven insights
+- Full Stack Developer at Curious Ecosystem
+- Founder of Bugbaar Community, where we collectively to experts and tech enthusiast.
+----
+📫 You can reach out to me through the following channels:
+- GitHub: [Planetkumbhaj](https://github.com/planetkumbhaj)
+- LinkedIn: [Kumbhaj shukla](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
+- Twitter: [Kumbhaj Shukla](https://twitter.com/planetkumbhaj)
+- YouTube: [Kumbhaj Shukla](https://www.youtube.com/kumbhaj)
+- Email: kumbhajs0@gmail.com
+- ---
+⚡ In my free time, you can find me:
+- Solving challenging problems on GeeksforGeeks and Leetcode
+- Creating educational content for my YouTube channel.
+
+Let's connect and build amazing things together! 🚀
 
 <!---
 PlanetKumbhaj/PlanetKumbhaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,22 +52,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
- 
-</div>
-### :woman_technologist: About Me :
-I am   MERN enthuastic Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m Studying Artificial inteligance and contributing to frontend and backend for building web applications.
+  
 
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on  GeeksforGeeks / Leetcode and record video for my youtube channel.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kumbhaj/)
-- ---
 
 
